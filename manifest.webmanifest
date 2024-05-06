@@ -1,0 +1,23 @@
+{
+  "short_name": "AnimaShooter Storyboard",
+  "name": "AnimaShooter Storyboard",
+  "description": "AnimaShooter Storyboard Generator",
+  "icons": [
+    {
+      "src": "/apps/storyboard/current/assets/images/favicons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/apps/storyboard/current/assets/images/favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/apps/storyboard/current/",
+  "background_color": "#666666",
+  "orientation":"landscape",
+  "display": "standalone",
+  "theme_color": "#666666",
+  "title_bar_color":"#666666"
+}
