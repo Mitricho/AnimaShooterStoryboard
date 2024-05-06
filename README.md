@@ -4,7 +4,7 @@
 
 Программа упрощает создание раскадровок и так позволяет вам больше времени тратить на творчество, а не рутину.
 
-[Постоянная ссылка приложения] (https://www.stopmotion.pro/apps/storyboard/current/)
+[Постоянная ссылка приложения](https://www.stopmotion.pro/apps/storyboard/current/)
 
 ## Поддержка
 [support@animashooter.com](mailto:support@animashooter.com)
